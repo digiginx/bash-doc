@@ -1,4 +1,2 @@
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
 markdown: GFM
-title: flag-icons
-description: A beautiful svg
