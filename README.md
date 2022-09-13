@@ -1,8 +1,4 @@
 # Аргументы скрипта
-| Command | Description |
-| --- | --- |
-| git status | List all new or modified files |
-
 | | |
 | --- | --- |
 | `$0` | Имя скрипта |
